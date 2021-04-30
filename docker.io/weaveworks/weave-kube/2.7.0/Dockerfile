@@ -1,0 +1,1 @@
+from docker.io/weaveworks/weave-kube:2.7.0

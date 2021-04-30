@@ -1,0 +1,1 @@
+from docker.io/library/nginx:1.19
